@@ -16,4 +16,4 @@ do
   fi
 done
 
-/home/pi/oledi2c -f 2 -s -l 30 "Hostname: "$host_name" IP Address: "$ipaddress &
+/home/pi/raspioled/oledi2c -f 2 -s -l 30 "Hostname: "$host_name" IP Address: "$ipaddress &
