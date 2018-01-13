@@ -1,4 +1,4 @@
-#OLED display tool C code for the RaspberryPi
+# OLED display tool C code for the RaspberryPi
  
 Write text to OLED via I2C
 
